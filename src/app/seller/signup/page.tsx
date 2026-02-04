@@ -301,6 +301,13 @@ export default function SellerSignupPage() {
                       เข้าสู่ระบบ
                     </Link>
                   </p>
+
+                  <p className="text-xs text-[#a3a3a3] text-center">
+                    การดำเนินการต่อถือว่าคุณยอมรับ{' '}
+                    <Link href="/terms" className="text-[#7a6f63] underline">ข้อกำหนด</Link>
+                    {' '}และ{' '}
+                    <Link href="/privacy" className="text-[#7a6f63] underline">นโยบายความเป็นส่วนตัว</Link>
+                  </p>
                 </div>
               </div>
             </>

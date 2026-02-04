@@ -285,9 +285,18 @@ export default function LandingPage() {
 
         {/* Footer */}
         <footer className="text-center py-8 text-[12px] text-[rgba(166,154,140,0.8)]">
-          <p>
-            © 2025 TapShop · <Link href="/terms" className="text-[#7a6f63] hover:underline">นโยบายความเป็นส่วนตัว</Link>
+          <p className="mb-2">
+            © 2026 Bookd Capital, Inc. · TapShop
           </p>
+          <div className="flex justify-center gap-4">
+            <Link href="/terms" className="text-[#7a6f63] hover:underline">
+              Terms / ข้อกำหนด
+            </Link>
+            <span>·</span>
+            <Link href="/privacy" className="text-[#7a6f63] hover:underline">
+              Privacy / ความเป็นส่วนตัว
+            </Link>
+          </div>
         </footer>
       </div>
 
