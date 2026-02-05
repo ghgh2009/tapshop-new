@@ -281,7 +281,7 @@ export default function PrivacyPage() {
                 <li><strong>Portability:</strong> Request export of your data / ขอส่งออกข้อมูล</li>
               </ul>
               <p className="text-sm leading-relaxed text-[#7a6f63] mt-3">
-                To exercise these rights, contact us at privacy@tapshop.me
+                To exercise these rights, contact us at info@tapshop.me
               </p>
             </section>
 
@@ -331,7 +331,7 @@ export default function PrivacyPage() {
                 <p className="font-bold text-[#1a1a1a]">Bookd Capital, Inc.</p>
                 <p>131 Continental Dr, Suite 305</p>
                 <p>Newark, DE 19713, USA</p>
-                <p className="mt-2">📧 Email: privacy@tapshop.me</p>
+                <p className="mt-2">📧 Email: info@tapshop.me</p>
                 <p>📞 Phone: +66 858704317</p>
                 <p>🌐 Website: https://tapshop.me</p>
               </div>
