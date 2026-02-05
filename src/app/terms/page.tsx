@@ -236,7 +236,7 @@ export default function TermsPage() {
                 <p className="font-bold text-[#1a1a1a]">Bookd Capital, Inc.</p>
                 <p>131 Continental Dr, Suite 305</p>
                 <p>Newark, DE 19713, USA</p>
-                <p className="mt-2">📧 Email: legal@tapshop.me</p>
+                <p className="mt-2">📧 Email: info@tapshop.me</p>
                 <p>📞 Phone: +66 858704317</p>
                 <p>🌐 Website: https://tapshop.me</p>
               </div>
